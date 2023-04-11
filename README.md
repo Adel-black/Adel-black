@@ -1,6 +1,7 @@
 [![Header](https://github.com/Adel-black/Adel-black/blob/main/assets/qa-2-min.png)](https://docs.google.com/document/d/1Mr9DzW3i_PaDBgY0ZSGCQ7Vrl1dTLNRhmSkdR25cd28/edit#)
 
 ## I’m QA Engineer. I test software and mobile applications.
+- [My resume](https://docs.google.com/document/d/1aC94KDa-CDndbRuvzjGWa95Rx-3rnNdF/edit?usp=share_link&ouid=108252500892910419546&rtpof=true&sd=true)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
