@@ -1,4 +1,4 @@
-[![Header](https://github.com/Adel-black/Adel-black/blob/main/assets/qa-2-min.png)(https://drive.google.com/file/d/1RIrvet0yUEmzzUYIV_EG8TAJtFTIME0H/view?usp=share_link)
+[![Header](https://github.com/Adel-black/Adel-black/blob/main/assets/qa-2-min.png)](https://drive.google.com/file/d/1RIrvet0yUEmzzUYIV_EG8TAJtFTIME0H/view?usp=share_link)
 
 ## I’m QA Engineer. I test software and mobile applications.
 - [My resume](https://docs.google.com/document/d/1aC94KDa-CDndbRuvzjGWa95Rx-3rnNdF/edit?usp=share_link&ouid=108252500892910419546&rtpof=true&sd=true)
