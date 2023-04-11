@@ -2,6 +2,7 @@
 
 ## I’m QA Engineer. I test software and mobile applications.
 - [My resume](https://docs.google.com/document/d/1aC94KDa-CDndbRuvzjGWa95Rx-3rnNdF/edit?usp=share_link&ouid=108252500892910419546&rtpof=true&sd=true)
+- [My certificates](https://drive.google.com/drive/folders/1XZshFVnrabWbEww66zoAsJWXw47ywD6b?usp=share_link)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
