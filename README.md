@@ -16,10 +16,8 @@
 ### Testing Documentation
 
 - [Checklists](https://drive.google.com/drive/folders/1SOaDI-rkQirOHMSKM1wpGC_ARbs1ysbx?usp=share_link)
-- [Test-Suites and Test-Cases](https://github.com)
-- [Bug-Reports](https://github.com/)
-- [SQL Queries](https://github.com/)
-- [Postman Collections](https://github.com/)
+- [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/1PTC50F2vhImcPzU9grO3XfDfeY4zd02u?usp=share_link)
+- [Bug-Reports](https://drive.google.com/drive/folders/1i0YprX-4jTJt7WOwdike_IygbZboxYZV?usp=share_link)
 
 ### Follow Me
 
